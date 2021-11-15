@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import {Artical, Navbar, Brand, CTA, Feature} from './components'
+import {Blog, Footer, Header, Possibility, Features, WhatGPT3} from './container'
 
 function App() {
   return (
