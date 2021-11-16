@@ -15,7 +15,7 @@ function App() {
       <WhatGPT3 />
       <Features />
       <Possibility />
-      <CTA />
+      <CTA /> 
       <Blog />
       <Footer />
       
